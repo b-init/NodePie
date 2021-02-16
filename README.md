@@ -1,7 +1,7 @@
 NodePie
 ==
 
-Blender addon to create custom nested pie menus to insert nodes in the node editor.
+Blender addon to create custom nested pie menus to insert nodes in the node editor. For Blender 2.80+
 
 Installation
 --
@@ -11,10 +11,10 @@ Installation
 
 Usage
 --
-* After enabling the addon, first thing you need to is go to the NodePie tab in N-Panel of the Shader Editor workspace to set-up your custom pie menu(s).
-* Click on the + icon to create the primary pie menu. Enter its contents in the spaces for "Title" and "Operator" below the list.
-* Now you can create multiple pie menus (by the + button) and and it'll appear in the "Operator" section list to be linked with another pie menu.
-* **Shift+Q** is the default shortcut key for calling the pie menu. Which can be change via **Preferences > Keymap > Node Editor > Node Editor (Global) > DefaultPie (or the name of your primary pie menu)**
+* After enabling the addon, pressing `Shift+Q` in the Node Editor will load the default Preset.
+* You can edit or create new NodePie Menu from the N-Panel > NodePie.
+* Don't forget to Save your preset or it will go away the next time you launch blender.
+* `Shift+Q` is the default shortcut key for calling the pie menu. Which can be change via `Preferences > Keymap > Node Editor > Node Editor (Global) > DefaultPie (or the name of your primary pie menu)`
 
 Changelog
 --
