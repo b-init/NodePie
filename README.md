@@ -2,6 +2,7 @@ NodePie
 ==
 
 Blender addon to create custom nested pie menus to insert nodes in the node editor. For Blender 2.80+
+
 **CURRENTLY UNSUPPORTED FOR BLENDER 3.0+**
 
 Installation
